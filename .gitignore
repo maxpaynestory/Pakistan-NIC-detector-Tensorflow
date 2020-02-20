@@ -1,0 +1,6 @@
+/.vscode/
+/build/
+/dist/
+/object_detection.egg-info/
+/pknic_trained_model/
+pknic_trained_model.zip

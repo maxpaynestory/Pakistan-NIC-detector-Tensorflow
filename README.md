@@ -25,7 +25,7 @@ pip install -r requirements.txt
 On repository root run
 
 ```
-python python detectusingwebcam.py
+python detectusingwebcam.py
 ```
 
 You should be able to see a window showing your camera feed. If you show a Pakistani NIC in front of camera, the video will show you a bounding box around detected photo.

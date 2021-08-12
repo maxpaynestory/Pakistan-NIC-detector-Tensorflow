@@ -5,7 +5,7 @@
 - Install python 3.6 and pip
 - Download trained model file
   https://drive.google.com/uc?id=12BD7NyDZHxDVC5H8nHDH_Qw0SXDnbw7e&export=download and extract on root
-- git clone tensorflow models from https://github.com/tensorflow/models.git
+- Download tensorflow models from https://github.com/tensorflow/models/archive/refs/tags/v1.13.0.zip
 - Install tensorflow models by going inside folder research and run command
 
 ```bash
